@@ -2,6 +2,7 @@
 Lingala,,"DR Congo, Republic of Congo, Central African Republic, Angola",Africa,CDC audio message,https://cdn.branchcms.com/DZAwJB3wVW-1030/docs/COVID-19/LINGALA-COVID-19-Audio.m4a,Audio
 Somali,Af-Soomaali,"Somalia, Kenya",Africa,CDC audio message,https://cdn.branchcms.com/DZAwJB3wVW-1030/docs/COVID-19/SOMALI-COVID-19-Audio.m4a,Audio
 Swahili,Kiswahili,"Kenya, Tanzania, Uganda, Burundi, DRC",Africa,CDC audio message,https://cdn.branchcms.com/DZAwJB3wVW-1030/docs/COVID-19/SWAHILI-COVID-19-Audio.m4a,Audio
+Gã,Ga,Ghana,Africa,Information and prevention video from VirALLanguages,https://www.youtube.com/watch?v=Bz2u2jNtB0Q,Video
 Gã,Ga,Ghana,Africa,WHO 7 steps audio message,https://drive.google.com/file/d/1_02ZL5VW7W2hQJ0VK-l3-dX-EnylLl1h/view?usp=sharing,Audio
 Deg,"Mo, Aculo, Buru","Ghana, Ivory Coast",Africa,WHO 7 steps audio message,https://drive.google.com/file/d/1_4s6_7A4bJ6kBIUd3XsiCz6GXblQaTcK/view?usp=sharing,Audio
 Nzema,"Nzima, Appolo","Ghana, Ivory Coast",Africa,WHO 7 steps audio message,https://drive.google.com/file/d/1_mP99ABuYE829_vkpTTnALwA82AJPOPC/view?usp=sharing,Audio
@@ -34,7 +35,6 @@ K'iche',Kiche,Guatemala,Mexico-Central America-Caribbean,Informational audio mes
 Popti',"Jakalteka, Jakalteko, Abxub'al","Guatemala, Mexico",Mexico-Central America-Caribbean,Informational audio message,https://drive.google.com/open?id=1N0CdW5-WE4Cu38UWp_qZGqigmRt0ucRy,Audio
 Mam,,"Guatemala, Mexico",Mexico-Central America-Caribbean,Prevention audio message,https://drive.google.com/open?id=1O89ahkWAaG1W6VYABs4Q7NYsq1SDPz7W,Audio
 Torwali,توروالی,Pakistan,South Asia,Prevention poster from Forum for Language Initiatives,https://drive.google.com/file/d/1E9GpTEkRwTIY2sCjLWxmksniXeyQsadz/view?usp=sharing,Image/poster
-Torwali,توروالی,Pakistan,South Asia,"Messages from the diaspora: COVID-19 in the United Arab Emirates, from VirALLanguages",https://archive.org/download/message-torwali-diaspora-uae,Video
 Torwali,توروالی,Pakistan,South Asia,Prevention and information audio message,https://drive.google.com/open?id=1uoXO7eisuBdN9wSIJhbA5crXvhqRRyFO,Audio
 Q'eqchí',,Guatemala,Mexico-Central America-Caribbean,Informational audio message,https://drive.google.com/open?id=1UZWRc-79rhSZag67f9m3DldNBPSsp7Ma,Audio
 Haitian Creole,kreyòl ayisyen,Haiti,Mexico-Central America-Caribbean,PSA audio for children and adults,https://lakoukajou.ht/wp-content/uploads/2020/03/Covid-19_Radio_Final.mp3,Audio
@@ -838,6 +838,7 @@ Chadian Arabic,,Chad,Africa,"""Do the 5"" poster from Translation Commons",https
 Algerian Spoken Arabic,دزيرية,Algeria,Africa,"""Do the 5"" poster from Translation Commons",https://translationcommons.org/covid19multilingual/?uid=arq-001,Image/poster
 Bahing,Baying,Nepal,South Asia,"""Do the 5"" poster from Translation Commons",https://translationcommons.org/covid19multilingual/?uid=bhj-000,Image/poster
 Balochi,بلۏچی‎,"Pakistan, Iran, Afghanistan, Turkmenistan, Tajikistan","Near East, South Asia","""Do the 5"" poster from Translation Commons",https://translationcommons.org/covid19multilingual/?uid=bal-000,Image/poster
+Balti,"སྦལ་ཏི།, بلتی","Pakistan, India",South Asia,Prevention and information video from VirALLanguages,https://archive.org/details/coronavirus-explained-in-balti,Video
 Balti,"སྦལ་ཏི།, بلتی","Pakistan, India",South Asia,Information and prevention video from Forum for Language Initiatives,https://drive.google.com/file/d/1PIrMPwHfeUFU_qeZEBsd0qYSrgrGZBu6/view?usp=sharing,Video
 Balti,"སྦལ་ཏི།, بلتی","Pakistan, India",South Asia,"""Do the 5"" poster from Translation Commons",https://translationcommons.org/covid19multilingual/?uid=bft-003,Image/poster
 Bariai,,Papua New Guinea,Pacific,"""Do the 5"" poster from Translation Commons",https://translationcommons.org/covid19multilingual/?uid=bch-000,Image/poster
@@ -920,6 +921,7 @@ Hausa,هَرْشَن هَوْسَ,"Niger, Nigeria, Ghana, Cameroon, Togo, Benin"
 Igbo,,Nigeria,Africa,Informational video,https://drive.google.com/open?id=1MMmvv4zuX8KYEvj-0R2hkbzbD82yChq5,Video
 Nigerian Pidgin,Naija,Nigeria,Africa,Informational video,https://drive.google.com/open?id=1NZmqxWJ841iwaChewRSO0ee2hlLSkUwV,Video
 Fulfulde,"Pulaar, Fula, Fulani, Peul","Senegal, Gambia, Guinea, Nigeria, Cameroon, Sudan",Africa,Prevention video from Nigerian CDC,https://drive.google.com/open?id=1P6Bno4Cs3UJWwJbs7x7dWEAo08wTRS7z,Video
+Torwali,توروالی,Pakistan,South Asia,"Messages from the diaspora: COVID-19 in the United Kingdom, from VirALLanguages",https://archive.org/download/message-torwali-diaspora-in-the-uk-usman-saeed,Video
 Torwali,توروالی,Pakistan,South Asia,"Messages from the diaspora: COVID-19 in the United Arab Emirates, from VirALLanguages",https://archive.org/download/message-torwali-diaspora-uae,Video
 Torwali,توروالی,Pakistan,South Asia,"Messages from the diaspora: COVID-19 in Denmark, from VirALLanguages",https://archive.org/download/message-diaspora-torwali-denmark,Video
 Torwali,توروالی,Pakistan,South Asia,"Messages from the diaspora: COVID-19 in China, from VirALLanguages",https://archive.org/download/message-diaspora-torwali-china,Video
@@ -1072,6 +1074,7 @@ Pintupi-Luritja,,Australia,Australia,Information video from Northern Land Counci
 Anmatyerr,,Australia,Australia,Information video from Northern Land Council,https://www.youtube.com/watch?v=51uJykbvVSY,Video
 Tektiteko,"B'a'aj, Teco, Kʼontiʼl, Qyool",Guatemala,Mexico-Central America-Caribbean,Information video,https://www.youtube.com/watch?v=5vaXEy6DXy8,Video
 Nuer,Thok Naath,"South Sudan, Ethiopia",Africa,How to stop the spread video,https://www.youtube.com/watch?v=61zDW_4wmfI&list=PL6XsN1SNHIDDUQ4xDwC6KMJKe6gcz8h4-&index=29&t=0s,Video
+Shina,"ݜݨیاٗ , ݜݨیاٗ ","Pakistan, India",South Asia,Prevention and information video from VirALLanguages,https://www.youtube.com/watch?v=O2L-WAzTH9I,Video
 Shina,"ݜݨیاٗ , ݜݨیاٗ ","Pakistan, India",South Asia,Prevention and information video from Forum for Language Initiatives,https://drive.google.com/file/d/1Mk8L0UkSHowrsbmt7fCaBctEh0Vix1nL/view?usp=sharing,Video
 Shina,"ݜݨیاٗ , ݜݨیاٗ ","Pakistan, India",South Asia,Prevention and information audio message from Khyber Pakhtunkhwa govt,https://www.youtube.com/watch?v=6wCiB6vL4Rc&feature=youtu.be,Video
 Aghem,"Wum, Yum",Cameroon,Africa,How to make hand sanitizer video,https://www.youtube.com/watch?v=6WqTkwVISkk,Video
@@ -1148,8 +1151,9 @@ Palula,"پالولہ, Ashreti, Dangarikwar",Pakistan,South Asia,Prevention and i
 Palula,"پالولہ, Ashreti, Dangarikwar",Pakistan,South Asia,Prevention poster from Forum for Language Initiatives,https://drive.google.com/file/d/1UktWXlvnTeApx5TDml5uGbVq5HRIZ3R4/view?usp=sharing,Image/poster
 Palula,"پالولہ, Ashreti, Dangarikwar",Pakistan,South Asia,Prevention and information video from VirALLanguages,https://archive.org/download/coronavirus-explained-in-Palula,Video
 Palula,"پالولہ, Ashreti, Dangarikwar",Pakistan,South Asia,Prevention and information audio message from Khyber Pakhtunkhwa govt,https://www.youtube.com/watch?v=KVY5l2mQzd4&feature=youtu.be,Video
-Gojri,"गुर्जरी, گُوجَری, Gurjari, Gujri","Pakistan, India, Afghanistan","South Asia, Near East",Prevention poster from Forum for Language Initiatives,https://drive.google.com/file/d/1ZoGg2I5hzVTOH4Dk_vpzVoh_YqsUnRKH/view?usp=sharing,Image/poster
-Gojri,"गुर्जरी, گُوجَری, Gurjari, Gujri","Pakistan, India, Afghanistan","South Asia, Near East",Prevention and information audio message from Khyber Pakhtunkhwa govt,https://www.youtube.com/watch?v=KwqOEPXLNYE&feature=youtu.be,Video
+Gojri,"गुर्जरी, گُوجَری, Gurjari, Gujri, Gujari","Pakistan, India, Afghanistan","South Asia, Near East",Prevention poster from Forum for Language Initiatives,https://drive.google.com/file/d/1ZoGg2I5hzVTOH4Dk_vpzVoh_YqsUnRKH/view?usp=sharing,Image/poster
+Gojri,"गुर्जरी, گُوجَری, Gurjari, Gujri, Gujari","Pakistan, India, Afghanistan","South Asia, Near East",Prevention video from VirALLanguages,https://www.youtube.com/watch?v=f_M039rB4Ac,Video
+Gojri,"गुर्जरी, گُوجَری, Gurjari, Gujri, Gujari","Pakistan, India, Afghanistan","South Asia, Near East",Prevention and information audio message from Khyber Pakhtunkhwa govt,https://www.youtube.com/watch?v=KwqOEPXLNYE&feature=youtu.be,Video
 Mixteco del oeste,to'on savi,Mexico,Mexico-Central America-Caribbean,Access to care for immigrants video from MICOP,https://www.youtube.com/watch?v=l2h0vN7VUu8&feature=emb_title,Video
 American Sign Language,ASL,US,North America,British Columbia PHSA informational videos,https://www.youtube.com/watch?v=lfAIvrSZg8c&list=PLcE0nANeV5MqeYI-gxcGOFLnIM8s2YV1h,Video
 Noni,Noone,Cameroon,Africa,Information video from VirALLanguages,https://www.youtube.com/watch?v=lHgCnWSF-rw,Video
@@ -1293,6 +1297,7 @@ Lepcha,Róng ríng,"India, Nepal, Bhutan",South Asia,WHO myth busters page,https
 Yorùbá,,Nigeria,Africa,WHO myth busters information page,https://covid-no-mb.org/?page_id=1272,Web page
 Telugu,తెలుగు,India,South Asia,WHO myth busters information page,https://covid-no-mb.org/?page_id=1270,Web page
 Bengali,"বাংলা, Bangla","India, Bangladesh",South Asia,SBS Australia information page,https://www.sbs.com.au/language/bangla/coronavirus-updates,Web page
+Gwich'in,Dinju Zhuh Kʼyuu,"Canada, US",North America,Symptoms poster from AKPIRG Gwichyaa Zhee Gwich'in Language Panel,https://www.facebook.com/nativepeoplesaction/posts/932117573938446,Image/poster
 Gwich'in,Dinju Zhuh Kʼyuu,"Canada, US",North America,Doyon Foundation blog with translated information and prevention tips</p,https://doyonfoundation.wordpress.com/tag/covid-19/,Web page
 Hän,Häł gołan,"Canada, US",North America,Doyon Foundation blog with translated information and prevention tips,https://doyonfoundation.wordpress.com/tag/covid-19/,Web page
 Deg Xinag,,US,North America,Doyon Foundation blog with translated information and prevention tips,https://doyonfoundation.wordpress.com/tag/covid-19/,Web page
@@ -1487,9 +1492,19 @@ Yidgha,یدغہ,Pakistan,South Asia,Information and prevention poster from Forum
 Dameli,Dāmya bāṣa,Pakistan,South Asia,Prevention and information video from Forum for Language Initiatives,https://drive.google.com/file/d/1PyBxDQZD7NM5LbjUy1EnvLR9sKb2A1oS/view?usp=sharing,Video
 Dameli,Dāmya bāṣa,Pakistan,South Asia,Prevention poster from Forum for Language Initiatives,https://drive.google.com/file/d/1IB-4kVBv0hL3HnlRATInu_EgWC7wKf-Y/view?usp=sharing,Image/poster
 Dameli,Dāmya bāṣa,Pakistan,South Asia,Information and prevention video from VirALLanguages,https://archive.org/download/coronavirus-explained-in-dameli,Video
+Khowar,"کهووار, Chitrali",Pakistan,South Asia,Prevention and information video from VirALLanguages,https://www.youtube.com/watch?v=_h9If-aCPqU,Video
 Khowar,"کهووار, Chitrali",Pakistan,South Asia,Prevention and information video from Forum for Language Initiatives,https://drive.google.com/file/d/1UYHpC3dgFoRWCWtWo4HgyoGoJ1BzJnaR/view?usp=sharing,Video
 Khowar,"کهووار, Chitrali",Pakistan,South Asia,Prevention poster from Forum for Language Initiatives,https://drive.google.com/file/d/1-e7CnR2XqHjnIR8sq4n-Bp0TSVv6moHt/view?usp=sharing,Image/poster
 Ormuri,"Oormuri, Bargista, Baraks, Baraki, زبان ارموری‎",,,Prevention poster from Forum for Language Initiatives,https://drive.google.com/file/d/1dxK-MFGmcQ0R0wJQ9iWcm0YNNi68jcFc/view?usp=sharing,Image/poster
 Shekhani,"Kataviri, Kamviri, کامويري",Pakistan,South Asia,Prevention and information video from Forum for Language Initiatives,https://drive.google.com/file/d/1Mk8L0UkSHowrsbmt7fCaBctEh0Vix1nL/view?usp=sharing,Video
 Mankiyali,,Pakistan,South Asia,Prevention and information video from Forum for Language Initiatives,https://drive.google.com/file/d/1doYrYB4JNIbgRriERXD1861BVKc2yHYH/view?usp=sharing,Video
+Hindko,ہندکو,Pakistan,South Asia,Prevention and information video from VirALLanguages,https://youtu.be/6Gl6YJKe4gU,Video
 Hindko,ہندکو,Pakistan,South Asia,Prevention and information video from Forum for Language Initiatives,https://drive.google.com/file/d/1o261vVjJ7YTHASKrEhqpMkdbzR2DSgxi/view?usp=sharing,Video
+Ushojo,Ushoji,Pakistan,South Asia,Prevention and information video from VirALLanguages,https://www.youtube.com/watch?v=Zt-KBdtbdAc,Video
+Kapuas Hulu,,Indonesia,Southeast Asia,Prevention and information video from VirALLanguages,https://www.youtube.com/watch?v=5AiIS9MPWDY,Video
+Lamaholot,"Solor, Solorese",Indonesia,Southeast Asia,Prevention and information video from VirALLanguages,https://www.youtube.com/watch?v=CIMoO5lULE0,Video
+Sumba Timur,Kambera,Indonesia,Southeast Asia,Informasi mendasar tentang virus Corona/Information video from VirALLanguages,https://www.youtube.com/watch?v=dDoMSh0Sg54&,Video
+Sumba Timur,Kambera,Indonesia,Southeast Asia,Menjalani kehidupan sosial selama pandemik/Living a social life during a pandemic video from VirALLanguages,https://www.youtube.com/watch?v=oNLIT4UJrlM,Video
+Sumba Timur,Kambera,Indonesia,Southeast Asia,Cara yang benar memakai masker/The right way to wear a mask video from VirALLanguages,https://www.youtube.com/watch?v=_etDc7HoOx0,Video
+Sumba Timur,Kambera,Indonesia,Southeast Asia,Gejala-gejala Covid-19/Symptoms of COVID-19 video from VirALLanguages,https://www.youtube.com/watch?v=Hq_PZjPQBao,Video
+Sumba Timur,Kambera,Indonesia,Southeast Asia,Bagaimana virus mempengaruhi manusia/How viruses affect humans video from VirALLanguages,https://www.youtube.com/watch?v=kUIhw5mx3DI,Video
